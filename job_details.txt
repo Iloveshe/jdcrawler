@@ -1,0 +1,14 @@
+JR1974066 Software QA Engineer Intern - Compute
+JR1974061 Software QA Engineer Intern
+JR1974072 Software QA Engineer Intern, DPU
+JR1973031 Software Engineer Intern （24/25届可投）
+JR1972973 Performance Engineer Intern - HPC and DL（24/25届可投）
+JR1971966 VLSI Physical Design (CAD) Intern（24/25/26届可投）
+JR1971182 Software Intern - Perception, Autonomous Vehicles（24/25/26届可投）
+JR1970941 Software Intern - Distributed Systems, AI Infrastructure（24/25/26届可投））
+JR1971023 NLP Research Engineer Intern（24/25/26届可投）
+JR1970684 Software Intern, Localization （24/25/26届可投）
+JR1970547 Software Intern, Drive Sim - Web（24/25/26届可投）
+JR1969907 System Software Intern - Platform（24/25/26届可投）
+JR1969632 Software Intern - Machine Learning Software Platform（24/25/26届可投）
+JR1969623 Software Intern - Machine Learning Tools Development （24/25/26届可投）
